@@ -36,7 +36,7 @@ void Application::begin(const i2s_config_t &i2s_config, const i2s_pin_config_t &
   // set up the processing
   TaskHandle_t processing_task_handle;
   xTaskCreatePinnedToCore(processing_task, "Processing Task", 4096, this, 2, &processing_task_handle, 0);
-
+///i2s_read();
   // start sampling from i2s device
   m_sampler->start(I2S_NUM_0, i2s_pins, i2s_config, m_window_size, processing_task_handle);
 }
