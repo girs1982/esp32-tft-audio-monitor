@@ -11,7 +11,7 @@ You'll need to use PlatformIO to build the project.
 To clone the repo use:
 
 ```
-git clone --recursive git@github.com:atomic14/esp32-tft-audio-monitor.git
+git clone --recursive [https://github.com/girs1982/esp32-tft-audio-monitor.git]
 ```
 
 This will make sure you get the TFT library as well.
