@@ -54,4 +54,5 @@ If you take the lazy option, then remember to remove `-DUSER_SETUP_LOADED=1`.
 
 And if you'd like to buy me a coffee...
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
+USDT TRX(TRC20)😎
+TDhXDJqubJySUgTEmu5pnFHHq4SfU9zSSq
